@@ -1,1 +1,3 @@
 # Hello Git!
+
+additional string
